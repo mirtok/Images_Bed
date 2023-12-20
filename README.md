@@ -1,2 +1,1 @@
-# Images_Bed
-图床
+# Images_Bed 图床
